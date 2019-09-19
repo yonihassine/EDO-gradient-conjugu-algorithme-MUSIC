@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # TP5 : Différences finies et gradient conjugué
+# # Différences finies et gradient conjugué
 
 # In[2]:
 
